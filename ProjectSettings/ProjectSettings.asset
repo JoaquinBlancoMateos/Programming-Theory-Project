@@ -826,12 +826,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 1b21db52-1fe7-441d-bc49-75b9f3546d21
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Programming-Theory-Project
   organizationId: joaquin-blanco-mateos
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
