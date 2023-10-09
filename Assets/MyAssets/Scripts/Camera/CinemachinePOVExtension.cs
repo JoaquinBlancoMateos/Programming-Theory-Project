@@ -1,7 +1,7 @@
 
 using UnityEngine;
 using Cinemachine;
-
+// INHERITANCE
 public class CinemachinePOVExtension : CinemachineExtension
 {
     private InputManager inputManager;
@@ -13,6 +13,8 @@ public class CinemachinePOVExtension : CinemachineExtension
     [SerializeField]
     private float clampAngle = 80f;
 
+
+    
     protected override void Awake()
     {  
        
