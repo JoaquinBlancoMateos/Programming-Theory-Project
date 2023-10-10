@@ -16,9 +16,11 @@ public class PlayerController : MonoBehaviour
     private float gravityValue = -9.81f;
     private InputManager inputManager;
     private Transform cameraTransform;
-
+    public GameObject origin;
+    public float rayLength;
     // Start is called before the first frame update
-
+    Vector2 movement;
+    Vector3 move ;
     private void Start()
     {
 
@@ -39,8 +41,8 @@ public class PlayerController : MonoBehaviour
             playerVelocity.y = 0f;
         }
 
-        Vector2 movement = inputManager.GetPlayerMovement();
-        Vector3 move = new Vector3(movement.x, 0f, movement.y);
+        movement = inputManager.GetPlayerMovement();
+        move = new Vector3(movement.x, 0f, movement.y);
         move = cameraTransform.forward * move.z + cameraTransform.right * move.x;
         move.y = 0f;
         controller.Move(move * Time.deltaTime * playerSpeed);
@@ -58,6 +60,34 @@ public class PlayerController : MonoBehaviour
 
         playerVelocity.y += gravityValue * Time.deltaTime;
         controller.Move(playerVelocity * Time.deltaTime);
+        RaycastGround();
+    }
+
+
+    public void RaycastGround()
+    {
+        Ray ray = new Ray(cameraTransform.position, cameraTransform.forward);
+
+        RaycastHit hit;
+
+       
+
+        if (Physics.Raycast(ray, out hit, rayLength))
+        {
+
+            Debug.Log("El raycast de la camara detecta: " + hit.collider.gameObject.name);
+            Debug.DrawRay(ray.origin, ray.direction * hit.distance, Color.red);
+
+        }
+        else
+        {
+            Debug.Log("El raycast de la camara no detecta nada");
+            Debug.DrawRay(ray.origin, ray.direction * rayLength, Color.green);
+
+        }
 
     }
+
+
+
 }

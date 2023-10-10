@@ -997,6 +997,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Toaster_11in_KN001
       objectReference: {fileID: 0}
+    - target: {fileID: 6746187922667467622, guid: 84cb2889db004e34499ce3ce106ad634,
+        type: 3}
+      propertyPath: m_TagString
+      value: Toster
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1481,7 +1486,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 724923010}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Set_Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1592,7 +1597,7 @@ GameObject:
   - component: {fileID: 908658496}
   - component: {fileID: 908658498}
   - component: {fileID: 908658497}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1631,6 +1636,8 @@ MonoBehaviour:
   playerSpeed: 2
   jumpHeight: 0
   gravityValue: -9.81
+  origin: {fileID: 1810021768}
+  rayLength: 5
 --- !u!143 &908658498
 CharacterController:
   m_ObjectHideFlags: 0
@@ -2529,7 +2536,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1810021769}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CamFollow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3679,7 +3686,7 @@ GameObject:
   - component: {fileID: 2089253889}
   - component: {fileID: 2089253888}
   - component: {fileID: 2089253887}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3718,7 +3725,7 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
