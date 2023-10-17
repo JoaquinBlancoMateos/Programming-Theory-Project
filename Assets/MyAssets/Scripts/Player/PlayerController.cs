@@ -16,8 +16,11 @@ public class PlayerController : MonoBehaviour
     private float gravityValue = -9.81f;
     private InputManager inputManager;
     private Transform cameraTransform;
-    public GameObject origin;
+    public GameObject interaction;
+    public GameObject originInteraction;
     public float rayLength;
+
+
     // Start is called before the first frame update
     Vector2 movement;
     Vector3 move ;
@@ -46,7 +49,7 @@ public class PlayerController : MonoBehaviour
         move = cameraTransform.forward * move.z + cameraTransform.right * move.x;
         move.y = 0f;
         controller.Move(move * Time.deltaTime * playerSpeed);
-
+        transform.rotation =cameraTransform.rotation;
      /*   if (move != Vector3.zero)
         {
             gameObject.transform.forward = move;
@@ -61,11 +64,15 @@ public class PlayerController : MonoBehaviour
         playerVelocity.y += gravityValue * Time.deltaTime;
         controller.Move(playerVelocity * Time.deltaTime);
         RaycastGround();
+        InteraccionObjectMove();
+
+
     }
 
-
+    // ABSTRACTION
     public void RaycastGround()
     {
+        
         Ray ray = new Ray(cameraTransform.position, cameraTransform.forward);
 
         RaycastHit hit;
@@ -74,7 +81,17 @@ public class PlayerController : MonoBehaviour
 
         if (Physics.Raycast(ray, out hit, rayLength))
         {
+           
+            if (hit.collider.CompareTag("Toaster") && inputManager.GetPlayerInteracion())
+            {
 
+                interaction =hit.collider.gameObject;
+                
+                interaction.transform.position = originInteraction.transform.position;
+
+
+
+            }
             Debug.Log("El raycast de la camara detecta: " + hit.collider.gameObject.name);
             Debug.DrawRay(ray.origin, ray.direction * hit.distance, Color.red);
 
@@ -83,6 +100,17 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("El raycast de la camara no detecta nada");
             Debug.DrawRay(ray.origin, ray.direction * rayLength, Color.green);
+
+        }
+
+    }
+
+    void InteraccionObjectMove()
+    {
+        if (interaction != null)
+        {
+            interaction.transform.position = originInteraction.transform.position;
+           // interaction.transform.rotation = originInteraction.transform.rotation;
 
         }
 

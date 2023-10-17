@@ -131,10 +131,65 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1710348011}
     m_Modifications:
+    - target: {fileID: 988463263615468672, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 988463263615468674, guid: f9c26530bf37d73429d519edb40e8c14,
         type: 3}
       propertyPath: m_Name
       value: CabinetLower_Backsplash_36Wx24Dx36H_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468674, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468676, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468678, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468680, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468682, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468684, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468686, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468688, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468690, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 988463263615468694, guid: f9c26530bf37d73429d519edb40e8c14,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 988463263615637666, guid: f9c26530bf37d73429d519edb40e8c14,
         type: 3}
@@ -411,6 +466,46 @@ PrefabInstance:
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx18H_KN001a
       objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312881, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312883, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312885, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312887, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312889, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312891, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312893, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312895, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6309402119350731665, guid: 172bf30d9590c7e4380c342a40e2711a,
         type: 3}
       propertyPath: m_RootOrder
@@ -545,10 +640,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299472, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 376283416373299474, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
         type: 3}
       propertyPath: m_Name
       value: CabinetLower_Backsplash_30Wx24Dx36H_Sink_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299474, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299476, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299478, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299480, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299482, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 376283416373299486, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 376283416375564240, guid: 31ebc2f27d1e74044b22d9e302af0e9c,
         type: 3}
@@ -595,7 +725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 287776117}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -663,6 +793,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx18H_KN001a (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312881, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312883, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312885, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312887, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312889, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312891, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312893, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312895, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6309402119350731665, guid: 172bf30d9590c7e4380c342a40e2711a,
         type: 3}
@@ -833,10 +1003,50 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1710348011}
     m_Modifications:
+    - target: {fileID: 460342201227641569, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641571, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641573, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641575, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641577, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641579, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641581, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 460342201227641583, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx36H_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 460342201227641583, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 460342201227681487, guid: 15aeb626866699f4b9ca5622ce0c3ce0,
         type: 3}
@@ -995,12 +1205,12 @@ PrefabInstance:
     - target: {fileID: 6746187922667467622, guid: 84cb2889db004e34499ce3ce106ad634,
         type: 3}
       propertyPath: m_Name
-      value: Toaster_11in_KN001
+      value: Toaster
       objectReference: {fileID: 0}
     - target: {fileID: 6746187922667467622, guid: 84cb2889db004e34499ce3ce106ad634,
         type: 3}
       propertyPath: m_TagString
-      value: Toster
+      value: Toaster
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1029,6 +1239,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ApplianceStack_30in_Ovens_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181317537563882657, guid: fd168d1c99eb3594fae7c7f949b98f78,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181317537563882659, guid: fd168d1c99eb3594fae7c7f949b98f78,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181317537563882661, guid: fd168d1c99eb3594fae7c7f949b98f78,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4181317537563977857, guid: fd168d1c99eb3594fae7c7f949b98f78,
         type: 3}
@@ -1111,17 +1336,22 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1710348011}
     m_Modifications:
     - target: {fileID: 2844121689128855729, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_Name
       value: Barstool_29in_KN001
       objectReference: {fileID: 0}
+    - target: {fileID: 2844121689128855729, guid: cdfea4b70105c204fbad9d84e8dfdca1,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
@@ -1131,7 +1361,7 @@ PrefabInstance:
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.00000011920929
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
@@ -1146,17 +1376,17 @@ PrefabInstance:
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
         type: 3}
@@ -1176,8 +1406,18 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2844121689128855729, guid: cdfea4b70105c204fbad9d84e8dfdca1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1374436794}
   m_SourcePrefab: {fileID: 100100000, guid: cdfea4b70105c204fbad9d84e8dfdca1, type: 3}
+--- !u!4 &542461089 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2844121689129088145, guid: cdfea4b70105c204fbad9d84e8dfdca1,
+    type: 3}
+  m_PrefabInstance: {fileID: 542461088}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &562362597
 GameObject:
   m_ObjectHideFlags: 0
@@ -1188,7 +1428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 562362598}
   - component: {fileID: 562362599}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1466,6 +1706,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Refrigerator_30Wx26.5Dx70H_KN002
       objectReference: {fileID: 0}
+    - target: {fileID: 480805790456538966, guid: cea1825746ddfd249bfb796f775a741a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1507,7 +1752,38 @@ Transform:
   m_Children:
   - {fileID: 908658496}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &729112225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 729112226}
+  m_Layer: 2
+  m_Name: OriginIteraction
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &729112226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729112225}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.2, z: 0.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 908658496}
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &879132753
 PrefabInstance:
@@ -1521,6 +1797,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Island_48Wx36Dx36H_KN001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6813562500043244059, guid: 6f9d129bc99d6c54889ae1a59bdcf544,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6813562500043742779, guid: 6f9d129bc99d6c54889ae1a59bdcf544,
         type: 3}
@@ -1618,6 +1899,7 @@ Transform:
   m_Children:
   - {fileID: 2089253886}
   - {fileID: 1810021769}
+  - {fileID: 729112226}
   m_Father: {fileID: 724923010}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1636,7 +1918,8 @@ MonoBehaviour:
   playerSpeed: 2
   jumpHeight: 0
   gravityValue: -9.81
-  origin: {fileID: 1810021768}
+  interaction: {fileID: 0}
+  originInteraction: {fileID: 729112225}
   rayLength: 5
 --- !u!143 &908658498
 CharacterController:
@@ -1780,7 +2063,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &1005075188
 PrefabInstance:
@@ -1819,6 +2102,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx18H_KN001a (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312881, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312883, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312885, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312887, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312889, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312891, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312893, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312895, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6309402119350731665, guid: 172bf30d9590c7e4380c342a40e2711a,
         type: 3}
@@ -1919,7 +2242,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1067347007}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1930,7 +2253,7 @@ Transform:
   - {fileID: 412410770}
   - {fileID: 2037676079}
   - {fileID: 564884867}
-  m_Father: {fileID: 1272944937}
+  m_Father: {fileID: 1432061992}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1133446418 stripped
@@ -1995,10 +2318,35 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: debd8f5b449346a4a81cec6bc3d351c7, type: 2}
+    - target: {fileID: 6338818631533601457, guid: 6650db8bdaabde84d8c68eea5282c8fc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338818631533601459, guid: 6650db8bdaabde84d8c68eea5282c8fc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6338818631533601461, guid: 6650db8bdaabde84d8c68eea5282c8fc,
         type: 3}
       propertyPath: m_Name
       value: CabinetLower_Backsplash_36Wx24Dx36H_Corner_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338818631533601461, guid: 6650db8bdaabde84d8c68eea5282c8fc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338818631533601463, guid: 6650db8bdaabde84d8c68eea5282c8fc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338818631533601469, guid: 6650db8bdaabde84d8c68eea5282c8fc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6338818631534100117, guid: 6650db8bdaabde84d8c68eea5282c8fc,
         type: 3}
@@ -2100,7 +2448,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1710348011}
-  - {fileID: 1067347008}
   m_Father: {fileID: 1432061992}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2114,7 +2461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1272962801}
   - component: {fileID: 1272962802}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2167,7 +2514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1275895877}
   - component: {fileID: 1275895878}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2210,6 +2557,35 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.10713142, y: 2.5157197, z: 2.4743242}
   m_Center: {x: 0.4464343, y: 1.0513822, z: -0.7371623}
+--- !u!1 &1374436790 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2844121689128855729, guid: cdfea4b70105c204fbad9d84e8dfdca1,
+    type: 3}
+  m_PrefabInstance: {fileID: 542461088}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &1374436794
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374436790}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.22326827
+  m_Height: 0.73611957
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.36802134, z: 0}
 --- !u!1 &1381008209
 GameObject:
   m_ObjectHideFlags: 0
@@ -2220,7 +2596,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1381008210}
   - component: {fileID: 1381008211}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2293,8 +2669,9 @@ Transform:
   m_Children:
   - {fileID: 1174818748}
   - {fileID: 1272944937}
+  - {fileID: 1067347008}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1565213676
 GameObject:
@@ -2306,7 +2683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1565213677}
   - component: {fileID: 1565213678}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2359,7 +2736,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1647138953}
   - component: {fileID: 1647138954}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2524,6 +2901,7 @@ Transform:
   - {fileID: 1005075189}
   - {fileID: 1133446419}
   - {fileID: 287776117}
+  - {fileID: 542461089}
   m_Father: {fileID: 1272944937}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2600,7 +2978,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1824764807
 PrefabInstance:
@@ -2639,6 +3017,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx18H_KN001a (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312881, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312883, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312885, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312887, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312889, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312891, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312893, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312895, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6309402119350731665, guid: 172bf30d9590c7e4380c342a40e2711a,
         type: 3}
@@ -2779,10 +3197,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1999787579403625201, guid: 4e0b8dcfc3ec33846a8b4c0b13dc022e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1999787579403625205, guid: 4e0b8dcfc3ec33846a8b4c0b13dc022e,
         type: 3}
       propertyPath: m_Name
       value: Cooktop_30in_Gas_KN001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999787579403625205, guid: 4e0b8dcfc3ec33846a8b4c0b13dc022e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999787579403625207, guid: 4e0b8dcfc3ec33846a8b4c0b13dc022e,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1999787579405630513, guid: 4e0b8dcfc3ec33846a8b4c0b13dc022e,
         type: 3}
@@ -2879,7 +3312,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1931856484}
   - component: {fileID: 1931856485}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2985,10 +3418,60 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764544, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764546, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3170840241238764548, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_36Wx12Dx36H_Corner_KN001a
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764548, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764550, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764552, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764554, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764556, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764558, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764564, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3170840241238764566, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3170840241240961728, guid: 301ae3b4e1dcb0a4db4931ec1638a3a5,
         type: 3}
@@ -3046,7 +3529,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1963339322}
   - component: {fileID: 1963339323}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3205,6 +3688,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CabinetUpper_30Wx12Dx18H_KN001a (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312881, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312883, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312885, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312887, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312889, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312891, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312893, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6309402119350312895, guid: 172bf30d9590c7e4380c342a40e2711a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6309402119350731665, guid: 172bf30d9590c7e4380c342a40e2711a,
         type: 3}
@@ -3464,7 +3987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2009870081}
   - component: {fileID: 2009870082}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Wall_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3672,7 +4195,7 @@ Transform:
   m_Children:
   - {fileID: 215053254}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2089253885
 GameObject:
